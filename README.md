@@ -11,5 +11,4 @@
    
       b. 解壓縮(Uncompression)
    
-      c. 多個檔案壓縮成一個檔案，可個別加入壓縮與解壓縮 (optional: 加分用)
    
